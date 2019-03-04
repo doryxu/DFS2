@@ -1,0 +1,30 @@
+.circle{
+  background: red;
+  width: 500px;
+  height: 500px;
+  border-radius:50%;
+  position: fixed;
+  position: absolute;
+  left: -100px;
+  top: -100px;
+  z-index: -1;
+  
+}
+
+.col1{
+  float:left;
+  width:500px;
+  text-indent: 50px;
+}
+
+.col2{
+  float:left;
+  width:500px;
+  margin-left:40px;
+  text-indent: 50px;
+}
+
+.text{
+  text-size:10px;
+  font-family: "Times New Roman", Times, serif;
+}
